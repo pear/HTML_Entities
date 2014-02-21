@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "email": "charles.fmj@gmail.com",
+            "name": "Charles Brunet",
+            "role": "Lead"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "description": "More info available on: http://pear.php.net/package/HTML_Entities",
+    "license": "\n  BSD License",
+    "name": "pear/html_entities",
+    "support": {
+        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=HTML_Entities",
+        "source": "https://github.com/pear/HTML_Entities"
+    },
+    "type": "library",
+    "require": {
+        "pear/pear_exception": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
